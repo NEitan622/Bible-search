@@ -1,0 +1,100 @@
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.exe
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.deps.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.runtimeconfig.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.AssemblyReference.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.Form1.resources
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.GenerateResource.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfoInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfo.cs
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CoreCompileInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CopyComplete
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\refint\GUI_UI_PL.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.genruntimeconfig.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\ref\GUI_UI_PL.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.pdb
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.exe
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.deps.json
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.runtimeconfig.json
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.dll
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.pdb
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.dll
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.dll
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.dll
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.pdb
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.pdb
+F:\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.pdb
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.AssemblyReference.cache
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.Form1.resources
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.GenerateResource.cache
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfoInputs.cache
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfo.cs
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CoreCompileInputs.cache
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.Up2Date
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.dll
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\refint\GUI_UI_PL.dll
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.pdb
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.genruntimeconfig.cache
+F:\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\ref\GUI_UI_PL.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.exe
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.deps.json
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.runtimeconfig.json
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.pdb
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.pdb
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.pdb
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.pdb
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.Form1.resources
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.GenerateResource.cache
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfo.cs
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CopyComplete
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\refint\GUI_UI_PL.dll
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.pdb
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.genruntimeconfig.cache
+D:\הנדסאים\c#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\ref\GUI_UI_PL.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.Form1.resources
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.GenerateResource.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\refint\GUI_UI_PL.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.exe
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.deps.json
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.runtimeconfig.json
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\GUI_UI_PL.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\Bll_services.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DTO_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\bin\Debug\net6.0-windows\DalRepository.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.csproj.CopyComplete
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\GUI_UI_PL.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\GUI_UI_PL\obj\Debug\net6.0-windows\ref\GUI_UI_PL.dll

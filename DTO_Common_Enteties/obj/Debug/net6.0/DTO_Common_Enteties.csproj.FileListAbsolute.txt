@@ -1,0 +1,46 @@
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.deps.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.AssemblyReference.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\refint\DTO_Common_Enteties.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\ref\DTO_Common_Enteties.dll
+F:\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.deps.json
+F:\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.dll
+F:\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfoInputs.cache
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfo.cs
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.CoreCompileInputs.cache
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.dll
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\refint\DTO_Common_Enteties.dll
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.pdb
+F:\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\ref\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.deps.json
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfo.cs
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\refint\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.pdb
+D:\הנדסאים\c#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\ref\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.deps.json
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\refint\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\DTO_Common_Enteties\obj\Debug\net6.0\ref\DTO_Common_Enteties.dll

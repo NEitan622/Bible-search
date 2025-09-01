@@ -1,0 +1,12 @@
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\bin\Debug\net6.0\Data_Repository.deps.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\bin\Debug\net6.0\Data_Repository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\bin\Debug\net6.0\Data_Repository.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.csproj.AssemblyReference.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.AssemblyInfoInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.AssemblyInfo.cs
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\refint\Data_Repository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\Data_Repository.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\Data_Repository\obj\Debug\net6.0\ref\Data_Repository.dll

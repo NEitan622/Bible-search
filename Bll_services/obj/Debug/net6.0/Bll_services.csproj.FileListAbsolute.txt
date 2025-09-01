@@ -1,0 +1,68 @@
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.deps.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.AssemblyReference.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfoInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfo.cs
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CopyComplete
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\refint\Bll_services.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\obj\Debug\net6.0\ref\Bll_services.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.pdb
+F:\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.deps.json
+F:\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.dll
+F:\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.pdb
+F:\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.dll
+F:\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.dll
+F:\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.pdb
+F:\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.AssemblyReference.cache
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfoInputs.cache
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfo.cs
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CoreCompileInputs.cache
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_serv.E4CE428E.Up2Date
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.dll
+F:\TanachProject\Bll_services\obj\Debug\net6.0\refint\Bll_services.dll
+F:\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.pdb
+F:\TanachProject\Bll_services\obj\Debug\net6.0\ref\Bll_services.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.deps.json
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.pdb
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.pdb
+D:\הנדסאים\c#\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfo.cs
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CopyComplete
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\refint\Bll_services.dll
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.pdb
+D:\הנדסאים\c#\TanachProject\Bll_services\obj\Debug\net6.0\ref\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.deps.json
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\Bll_services.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\DalRepository.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\bin\Debug\net6.0\DTO_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\refint\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_services.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\ref\Bll_services.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\Bll_services\obj\Debug\net6.0\Bll_serv.E4CE428E.Up2Date

@@ -1,0 +1,46 @@
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.deps.json
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.AssemblyReference.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfoInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfo.cs
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\refint\DalRepository.dll
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.pdb
+C:\הנדסאים\C#\שעורי בית\TanachProject\DalRepository\obj\Debug\net6.0\ref\DalRepository.dll
+F:\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.deps.json
+F:\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.dll
+F:\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.pdb
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfoInputs.cache
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfo.cs
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.CoreCompileInputs.cache
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.dll
+F:\TanachProject\DalRepository\obj\Debug\net6.0\refint\DalRepository.dll
+F:\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.pdb
+F:\TanachProject\DalRepository\obj\Debug\net6.0\ref\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.deps.json
+D:\הנדסאים\c#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.pdb
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfo.cs
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\refint\DalRepository.dll
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.pdb
+D:\הנדסאים\c#\TanachProject\DalRepository\obj\Debug\net6.0\ref\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.deps.json
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\bin\Debug\net6.0\DalRepository.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\refint\DalRepository.dll
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\DalRepository.pdb
+C:\הנדסאים\שנה ב\C#\TanachProject\DalRepository\obj\Debug\net6.0\ref\DalRepository.dll

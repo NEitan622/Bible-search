@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DTO_Common_Enteties/1.0.0": {
+        "runtime": {
+          "DTO_Common_Enteties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTO_Common_Enteties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
